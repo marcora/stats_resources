@@ -1,1 +1,5 @@
-# stats_resources
+# Statistics/Data analysis resources
+
+## Books
+
+
